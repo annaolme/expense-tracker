@@ -23,3 +23,5 @@ Track your expenses with categories and charts. Built with React and Firebase.
 1. Create a Firebase project and enable Firestore
 2. Copy your config to `src/firebase.js`
 3. `npm install && npm start`
+
+Uses Firebase v9 modular SDK.
