@@ -25,3 +25,5 @@ Track your expenses with categories and charts. Built with React and Firebase.
 3. `npm install && npm start`
 
 Uses Firebase v9 modular SDK.
+
+Chart tooltips show currency symbol.
